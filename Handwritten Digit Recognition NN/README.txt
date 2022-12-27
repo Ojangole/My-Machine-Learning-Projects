@@ -5,5 +5,5 @@ and the supporting files and sample data is used as described in the ex4.m file 
 
 In this project, I
 - Designed and developed a 2 layer Neural Network that classifies digits. 
-- Created a mathematical model to compute cost function, obtain sigmoid gradient and implement backpropagation.
-- Built with Octave using Octave GUI and CLI. The model used cost function in each layer to assess its accuracy.
+- Utilized a mathematical model to compute cost function to ensure accuracy and obtain sigmoid gradient to update weights and biases during backpropagation to train data.
+- Implemented with Octave using Octave GUI and CLI.
