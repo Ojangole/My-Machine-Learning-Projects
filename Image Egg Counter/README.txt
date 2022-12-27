@@ -1,10 +1,7 @@
 Image Egg counter
 
-● Designed and developed a COVID 19 prediction model to predict deaths, confirmed cases and recovered cases using features like
-location, population, deaths and previous COVID cases.
+● Designed and developed a model to count the number of circular items/eggs in an image.
 
-● Built with Python, Pandas and SciKit-Learn Library through a Jupyter notebook on Kaggle using Standard Scaler feature
-engineering technique to prepare the data and a random forest regressor to generate predictions.
+● Built with Python and NumPy Library using HoughCircles and Distance Transform with Watershed Algorithm to find circular items/eggs in the image.
 
-● Obtained model accuracy of 79% using the mean absolute percentage error method. Can be improved by training more data and
-hyperparameter tuning.
+● Can be improved by calculating accuracy by comparing the number of circled eggs in HoughCirles implementation with those in Distance Transform or with a manual number of circular items/eggs in the picture.
