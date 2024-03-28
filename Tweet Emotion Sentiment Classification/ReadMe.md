@@ -10,3 +10,5 @@ processing model may not be able to capture the nuances and context of the tweet
 The project will aim to create and train a (Recurrent Neural Network) RNN model that can
 handle tweet emotion recognition. It will also create a Naïve Bayes model for tweet emotion
 recognition and compare the results of the two models.
+
+Data from hugging face tweet emotion data
